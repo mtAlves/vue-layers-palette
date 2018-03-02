@@ -1,0 +1,30 @@
+{
+  "name": "vue-layers-palette",
+  "version": "1.0.0",
+  "description": "A adapt of vue-color compact",
+  "main": "VueLayersPalette.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtAlves/vue-layers-palette.git"
+  },
+  "keywords": [
+    "Vuejs", "Color Palette"
+  ],
+  "author": "Matheus Alves <mtzin44@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtAlves/vue-layers-palette/issues"
+  },
+  "homepage": "https://github.com/mtAlves/vue-layers-palette#readme",
+  "dependencies": {
+    "vue": "^2.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.1",
+    "vue-hot-reload-api": "^2.3.0"
+  }
+}
